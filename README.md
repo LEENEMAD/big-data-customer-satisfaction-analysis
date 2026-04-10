@@ -63,10 +63,10 @@ Used Hadoop-style MapReduce to aggregate customer satisfaction across key factor
 ![Customer Satisfaction Drivers](dashboard1.png)
 
 ### 🔹 Feature Impact Analysis
-![Feature Impact](images/dashboard2.png)
+![Feature Impact](dashboard2.png)
 
 ### 🔹 Prediction Accuracy Dashboard
-![Prediction Accuracy](images/dashboard3.png)
+![Prediction Accuracy](dashboard3.png)
 
 ---
 
